@@ -1,3 +1,10 @@
+
+
+![smart_home](https://github.com/user-attachments/assets/679c6d99-b9d1-4bd5-b0a9-c6c4245894bf)
+![smart_home](https://github.com/user-attachments/assets/679c6d99-b9d1-4bd5-b0a9-c6c4245894bf)
+
+
+
 # 🏠 Smart Home Automation System
 
 This project demonstrates a **Smart Home Automation System** using an **ATmega32 microcontroller**, designed and simulated in **Proteus** and programmed using **AVR (C/C++) in Eclipse IDE**.
