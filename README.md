@@ -1,7 +1,7 @@
 
 
 ![smart_home](https://github.com/user-attachments/assets/679c6d99-b9d1-4bd5-b0a9-c6c4245894bf)
-![smart_home](https://github.com/user-attachments/assets/679c6d99-b9d1-4bd5-b0a9-c6c4245894bf)
+
 
 
 
